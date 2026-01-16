@@ -1,0 +1,5 @@
+img,output,timestamp
+.gradio\flagged\img\8d113c825d504b46ac64\Apple_22.jpg,"{""label"": null, ""confidences"": null}",2025-10-25 06:14:49.611734
+.gradio\flagged\img\c95c5bbfd83c3717408c\Apple_02.jpg,"{""label"": ""Banana"", ""confidences"": [{""label"": ""Banana"", ""confidence"": -0.15182143449783325}, {""label"": ""Apple"", ""confidence"": -0.21040919423103333}, {""label"": ""Orange"", ""confidence"": -0.45004987716674805}]}",2025-10-25 06:18:28.208390
+.gradio\flagged\img\c0b555530f4836aa2405\clipboard.png,"{""label"": ""Banana"", ""confidences"": [{""label"": ""Banana"", ""confidence"": 0.4087238907814026}, {""label"": ""Apple"", ""confidence"": 0.331595778465271}, {""label"": ""Orange"", ""confidence"": 0.2596803605556488}]}",2025-10-25 08:57:27.124194
+.gradio\flagged\img\6b5ca8c431c6dd02796c\clipboard.png,"{""label"": ""Banana"", ""confidences"": [{""label"": ""Banana"", ""confidence"": 0.4087238907814026}, {""label"": ""Apple"", ""confidence"": 0.331595778465271}, {""label"": ""Orange"", ""confidence"": 0.2596803605556488}]}",2025-10-25 08:57:28.952068
